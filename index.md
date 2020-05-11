@@ -1,7 +1,6 @@
 ## Welcome to CheEun's GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/CheEun0606/CheEun0606.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
+Name : LeeCheEun
+Major : Electronic Engineering
+Fields of interest : Embedded processor, Robotics
+Youtube Address : https://www.youtube.com/channel/UCZWJHOOxED23v9cf2Qozu5w?view_as=subscriber
